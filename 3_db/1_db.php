@@ -26,4 +26,4 @@
     ?>
     <h4>Kod po dołączeniu do pliku</h4>
 </body>
-</html>
+</html> 
